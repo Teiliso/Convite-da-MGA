@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    box-sizing: 0;
+    
+}
+
+img {
+    width: 40%;
+    height: auto ;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    margin-bottom: 0.5rem;
+    margin-top: 2rem;
+    
+}
+
+.texto {
+    text-align: center;
+    margin: 1rem;
+    margin-top: -2rem;
+    font-style: unset;
+    
+}
+
+
+.jovens {
+    text-align: center;
+    margin-bottom: 4rem;
+    
+}
+
+
+
+.texto span {
+    color: black;
+    font-style: oblique;
+    font: bold;
+}
+
+.button {
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+    
+}
+
+button, a {
+    background: #C6B096;
+    padding: 0.7rem;
+    border-radius: 7px;
+    color: black;
+}
